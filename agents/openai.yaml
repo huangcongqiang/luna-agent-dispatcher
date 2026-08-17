@@ -1,0 +1,4 @@
+interface:
+  display_name: "Luna Agent Dispatcher"
+  short_description: "使用 Luna xhigh 子 Agent 执行任务并由 Codex 验收"
+  default_prompt: "Use $luna-agent-dispatcher to delegate this bounded task to GPT-5.6 Luna at xhigh reasoning and independently verify the result."
